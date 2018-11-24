@@ -1,6 +1,4 @@
 library(readr)
-library(ggplot2)
-library(ggpubr)
 library(stringr) #for str_sort
 library(R.utils) #for listDirectory
 library(data.table) ##for rbindlist
